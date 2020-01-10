@@ -1,0 +1,93 @@
+[
+  {
+    "jenis_vitamin": "A",
+    "nama_biokimia": "Retinal,Retinol,Carotenoids",
+    "fungsi": "Penting untuk indra penglihatan, menjaga kesehatan Kulit dan imunitas Tubuh",
+    "akibat_kekurangannya": "Rabun Senja, Katarak, Hyperkeratosis, Keratomalacia",
+    "sumber_vitamin": "Buah-buahan berwarna Merah dan Kuning (Wartel, Cabe Merah, Pisang, Pepaya), Susu, Margarine, Hati dan Ginjal, Sayuran yang berwarna Hijau dan Kuning."
+  },
+  {
+    "jenis_vitamin": "B1",
+    "nama_biokimia": "Thiamine",
+    "fungsi": "Penting untuk system saraf dan fungsi jantung, Mencegah penyakit beri-beri",
+    "akibat_kekurangannya": "Rabun Senja, Katarak, Hyperkeratosis, Keratomalacia",
+    "sumber_vitamin": "Gandum, kacang hijau, kacang kedelai, daging, susu, roti, tepung, ikan, daging tanpa lemak, ayam dan lain sebagainya."
+  },
+  {
+    "jenis_vitamin": "B2",
+    "nama_biokimia": "Riboflavin",
+    "fungsi": "Penting untuk Kulit, Pertumbuhan jaringan tubuh, mencegah kepekaan mata terhadap cahaya",
+    "akibat_kekurangannya": "Penyakit Ariboflavinosis, Turunnya daya tahan tubuh, kulit kering, kulit bersisik, mulut kering, bibir pecah-pecah.",
+    "sumber_vitamin": "Susu, Pisang, Kacang hijau, asparagus, sayuran hijau yang berdaun, daging tanpa lemak."
+  },
+  {
+    "jenis_vitamin": "B3",
+    "nama_biokimia": "Niacin, Niacinamide",
+    "fungsi": "Membantu makanan menjadi energi, membantu sistem saraf, mencegah penyakit pellagra, mencegah berkurangnya nafsu makan.",
+    "akibat_kekurangannya": "Penyakit Pellagra, insomnia mual-mual, badan lemas, otot mudah keram dan kejang.",
+    "sumber_vitamin": "Telur, Roti, daging ayam, daging sapi, ikan (tuna dan salmon), Sayur-sayuran, berdaun, asparagus, hati, ragi, susu, Avokado, Brokoli."
+  },
+  {
+    "jenis_vitamin": "B5",
+    "nama_biokimia": "Pantothenic acid",
+    "fungsi": "Membantu pemecahan nutrisi makanan (terutama pada lemak),menjaga komunikasi sistem saraf dan otak, memproduksi senyawa asam lemak, sterol, neurotransmiter, dan hormon tubuh.",
+    "akibat_kekurangannya": "Penyakit Paresthesia, Otot mudah kram, sulit tidur, kulit kering dan bersisik.",
+    "sumber_vitamin": "Brokoli, Avokado, daging, Sayur-sayuran."
+  },
+  {
+    "jenis_vitamin": "B6",
+    "nama_biokimia": "Pyridoxine",
+    "fungsi": "Penting kesehatan gigi dan gusi, penting untuk sel-sel darah merah dan sistem saraf, memproduksi antibodi.",
+    "akibat_kekurangannya": "Penyakit Anemia, Gangguan sistem saraf",
+    "sumber_vitamin": "Daging, Pisang, sayur-sayuran dan kacang-kacangan."
+  },
+  {
+    "jenis_vitamin": "B7",
+    "nama_biokimia": "Biotin",
+    "fungsi": "Membantu reaksi biokimia pada tubuh seperti transfer karbondioksida dan metabolisme karbohidrat dan lemak.",
+    "akibat_kekurangannya": "Dermatitis, Enteritis, depresi, nusea, anemia dan kerontokan rambut.",
+    "sumber_vitamin": "Daging, kuning telur, pisang, kacang-kacangan, ragi dan gandum."
+  },
+  {
+    "jenis_vitamin": "B9",
+    "nama_biokimia": "Folic acid",
+    "fungsi": "Mencegah kecacatan pada janin, membantu tubuh dalam proses metobolisme protein yang berlangsung, membangun sel-sel darah merah yang sehat, menurunkan resiko penyakit jantung.",
+    "akibat_kekurangannya": "Kecacatan pada janin",
+    "sumber_vitamin": "Bayam, Kacang polong, biji Bunga matahari, kentang, tomat, jeruk, Telur dan hati."
+  },
+  {
+    "jenis_vitamin": "B12",
+    "nama_biokimia": "Cyanocobalamin, hydroxycobalamin, methylcobalamin",
+    "fungsi": "Menjaga kesehatan sistem saraf, mencegah penyakit anemia dan penting untuk pertumbuhan bagi anak-anak.",
+    "akibat_kekurangannya": "Penyakit Anemia, cepat lelah.",
+    "sumber_vitamin": "Ikan, daging, telur, susu, hati."
+  },
+  {
+    "jenis_vitamin": "C",
+    "nama_biokimia": "Ascorbic acid",
+    "fungsi": "Penting untuk kesehatan gigi dan gusi serta tulang, Membentuk sel-sel tubuh dan pembuluh darah, mencegah penyakit kudis, meningkatkan daya tahan tubuh, sebagai antioksidan.",
+    "akibat_kekurangannya": "Lidah pecah-pecah, berkurangnya energi / cepat lelah, penyakit kudis, penyakit sariawan, anemia.",
+    "sumber_vitamin": "Jeruk, Tomat, arbei, Strawberry, asparagus, kol, susu, mentega dan ikan."
+  },
+  {
+    "jenis_vitamin": "D",
+    "nama_biokimia": "Cholecalciferol, Ergocalciferol",
+    "fungsi": "Penting untuk Gigi dan tulang, membantu tubuh menggunakan Kalsium dan Phospor, mencegah penyakit rahkitis",
+    "akibat_kekurangannya": "Rheumatoid arthritis, Penyakit Osteomalasia, diabetes, Penyakit Rahkitis.",
+    "sumber_vitamin": "Ikan, telur, hati, Jamur, Kedelai, Susu, udang, tiram. Paparan sinar Matahari."
+  },
+  {
+    "jenis_vitamin": "E",
+    "nama_biokimia": "Tocopherols, Tocotrienols",
+    "fungsi": "Penting untuk fungsi darah, mencegah asam lemak yang berlebihan, menjaga jaringan kesehatan kulit, mata, darah merah dan hati, Sebagai antioksidan alami, melindungi paru-paru dari polusi udara.",
+    "akibat_kekurangannya": "kemandulan, gangguan saraf dan otot.",
+    "sumber_vitamin": "minyak sayur, gandum, padi-padian, lettuce, ikan, ragi, kuning telur."
+  },
+  {
+    "jenis_vitamin": "K",
+    "nama_biokimia": "Phylloquinone, Menaquinones",
+    "fungsi": "membantu metabolisme tubuh dan mencegah penyakit diabetes, menekan proses pendarahan akibat pemakain senyawa aspirin atau antibiotik berlebihan, menurunkan risiko terkena penyakit osteoporosis.",
+    "akibat_kekurangannya": "menghambat pembekuan darah, menurunnya kepadatan tulang.",
+    "sumber_vitamin": "Sayuran berdaun hijau, avocado, kiwi, peterseli. "
+  }
+]
